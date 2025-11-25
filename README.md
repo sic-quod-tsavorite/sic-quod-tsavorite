@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 What I’m Working With
+### 🚀 What I’m Working With / Fields of interests
 
 **Frontend**
 
@@ -31,17 +31,6 @@
 **Infrastructure**
 
 - Linux servers, networking, Docker orchestration
-
----
-
-### 📚 Areas of Interest
-
-- Real‑time 3D graphics (Three.js, Unity)
-- Cloud native workflows & automation
-- Ethical hacking & vulnerability research
-- Open‑source
-
----
 
 #### 🌐 Contact
 
