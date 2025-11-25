@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hi there! I'm **Martin**
 
-<!--
-**sic-quod-tsavorite/sic-quod-tsavorite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student @ **EASV** – passionate about building beautiful, performant web experiences and exploring everything from game dev to security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working With
+
+**Frontend**
+
+- **Vue** • **TypeScript** • **Tailwind CSS**
+- Also comfortable with **React**, **Three.js**, plain **JavaScript**
+
+**Backend & Databases**
+
+- **Node.js / PHP / C#**
+- **MongoDB**, **MySQL**
+
+**DevOps**
+
+- Version control (Git) • CI/CD pipelines • Docker
+
+**Game Development**
+
+- Unity (C#)
+
+**Security & OSINT**
+
+- Hashing, SQL‑Injection, XSS, reconnaissance techniques
+
+**Infrastructure**
+
+- Linux servers, networking, Docker orchestration
+
+---
+
+### 📚 Areas of Interest
+
+- Real‑time 3D graphics (Three.js, Unity)
+- Cloud native workflows & automation
+- Ethical hacking & vulnerability research
+- Open‑source
+
+---
+
+#### 🌐 Contact
+
+📫 Reach out via email: <a href="mailto:tsav.git@pm.me">tsav.git@pm.me</a>
